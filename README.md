@@ -4,7 +4,7 @@ This project was developed for the course **Data Analysis and Statistical Learni
 
 ## 📄 Project Report
 The complete analysis and findings are detailed in the project report file:
-**`report card data.pdf`**
+**`Report Credit Card Data - Fiorito - Licciardello - Vivera [rectified].pdf`**
 
 ## 🔗 Dataset
 The dataset used for this analysis is available on Kaggle:
