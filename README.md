@@ -36,3 +36,13 @@ In our working directory, we have organized the files as follows:
 
 *   **output**
     *   Outputs from our R scripts such as plots, HTML files, and data summaries are saved here. This helps us and our collaborators distinguish what files are outputs and which are source files.
+---
+
+## 👥 Authors
+
+**Credit Card Analysis — Statistical Learning Report**
+
+**Prepared By:**
+* Emanuele Fiorito
+* Paolo Vivera
+* Rosario Licciardello
