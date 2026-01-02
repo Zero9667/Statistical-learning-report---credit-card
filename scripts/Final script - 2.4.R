@@ -311,7 +311,7 @@ dtest   <- prova[-trainIndex, ]
 
 # Applying oversampling with SMOTE
 
-# Elimina le righe con valori nulli dal dataframe dtrain
+# Remove rows with missing values from the dtrain data frame
 dtrain <- na.omit(dtrain)
 
 dtrain_provisional <- SMOTE(dtrain,dtrain[,1])   
@@ -399,49 +399,46 @@ predicted_lda_b_acceptance <- predict(lda_fit_train_b, newdata = dtest, type = "
 
 
 # Converting probabilities to binary predictions for logistic regression models
-predicted_glm_acceptance_y  <- ifelse(predicted_glm_acceptance > 0.5, 1, 0)  # Converti le probabilità predette dalla logistic regression in predizioni binarie
-predicted_glm_b_acceptance_y  <- ifelse(predicted_glm_b_acceptance > 0.5, 1, 0)  # Converti le probabilità predette dalla logistic regression con SMOTE in predizioni binarie
+predicted_glm_acceptance_y  <- ifelse(predicted_glm_acceptance > 0.5, 1, 0)  # Convert predicted probabilities from the logistic regression model into binary predictions
+predicted_glm_b_acceptance_y  <- ifelse(predicted_glm_b_acceptance > 0.5, 1, 0)  # Convert predicted probabilities from the logistic regression model with SMOTE into binary predictions
 
 # Predictions for LDA models
-predicted_lda_acceptance_y <- predict(lda_fit_train, newdata = dtest)$class  # Predizioni dirette per il modello LDA
-predicted_lda_b_acceptance_y <- predict(lda_fit_train_b, newdata = dtest)$class  # Predizioni dirette per il modello LDA con SMOTE
+predicted_lda_acceptance_y <- predict(lda_fit_train, newdata = dtest)$class  # Direct predictions for the LDA model
+predicted_lda_b_acceptance_y <- predict(lda_fit_train_b, newdata = dtest)$class  # Direct predictions for the LDA model with SMOTE
 
 # Predictions for QDA models
-predicted_qda_train <- predict(qda_model_train, dtest)$class  # Predizioni dirette per il modello QDA
-predicted_qda_train_b <- predict(qda_model_train_b, dtest)$class  # Predizioni dirette per il modello QDA con SMOTE
+predicted_qda_train <- predict(qda_model_train, dtest)$class  # Direct predictions for the QDA model
+predicted_qda_train_b <- predict(qda_model_train_b, dtest)$class  # Direct predictions for the QDA model with SMOTE
 
 # Predictions for Naive Bayes models
-predicted_nb_train <- predict(nb_model_train, dtest)  # Predizioni dirette per il modello Naive Bayes
-predicted_nb_train_b <- predict(nb_model_train_b, dtest)  # Predizioni dirette per il modello Naive Bayes con SMOTE
+predicted_nb_train <- predict(nb_model_train, dtest)  # Direct predictions for the Naive Bayes model
+predicted_nb_train_b <- predict(nb_model_train_b, dtest)  # Direct predictions for the Naive Bayes model with SMOTE
 
 # Predictions for Random Forest models
-predicted_rf_train <- predict(rf_model_train, newdata = c_dtest)  # Predizioni dirette per il modello Random Forest
+predicted_rf_train <- predict(rf_model_train, newdata = c_dtest)  
 
 # Predictions for Boosting models
-predicted_boosting_train <- predict(boosting_model_train, dtest, n.trees = 100, type = "response")  # Predizioni dirette per il modello Boosting
-predicted_boosting_train_b <- predict(boosting_model_train_b, dtest, n.trees = 100, type = "response")  # Predizioni dirette per il modello Boosting con SMOTE
-predicted_boosting_train_class <- ifelse(predicted_boosting_train > 0.5, 1, 0)  # Converti le probabilità predette dal modello Boosting in predizioni binarie
-predicted_boosting_train_b_class <- ifelse(predicted_boosting_train_b > 0.5, 1, 0)  # Converti le probabilità predette dal modello Boosting con SMOTE in predizioni binarie
+predicted_boosting_train <- predict(boosting_model_train, dtest, n.trees = 100, type = "response")  # Direct predictions for the Boosting model
+predicted_boosting_train_b <- predict(boosting_model_train_b, dtest, n.trees = 100, type = "response")  # Direct predictions for the Boosting model with SMOTE
+predicted_boosting_train_class <- ifelse(predicted_boosting_train > 0.5, 1, 0)  # Convert predicted probabilities from the Boosting model into binary predictions
+predicted_boosting_train_b_class <- ifelse(predicted_boosting_train_b > 0.5, 1, 0)  # Convert predicted probabilities from the Boosting model with SMOTE into binary predictions
 
 
 # Confusion matrices 
 cm_glm<-table(dtest$acceptance,predicted_glm_acceptance_y)
-cm_glm_b<-table(dtest$acceptance,predicted_glm_b_acceptance_y) #with smote 
+cm_glm_b<-table(dtest$acceptance,predicted_glm_b_acceptance_y) # with SMOTE 
 cm_lda<-table(dtest$acceptance,predicted_lda_acceptance_y)
-cm_lda_b<-table(dtest$acceptance,predicted_lda_b_acceptance_y) #with smote
+cm_lda_b<-table(dtest$acceptance,predicted_lda_b_acceptance_y) # with SMOTE
 cm_qda_train <- table(dtest$acceptance, predicted_qda_train)
 cm_qda_train_b <- table(dtest$acceptance, predicted_qda_train_b)
-cm_nb_train <- table(dtest$acceptance, predicted_nb_train)  # Matrice di confusione per il modello Naive Bayes
-cm_nb_train_b <- table(dtest$acceptance, predicted_nb_train_b)  # Matrice di confusione per il modello Naive Bayes con SMOTE
+cm_nb_train <- table(dtest$acceptance, predicted_nb_train)  # Confusion matrix for the Naive Bayes model
+cm_nb_train_b <- table(dtest$acceptance, predicted_nb_train_b)  # Confusion matrix for the Naive Bayes model with SMOTE
 cm_rf_train <- table(c_dtest$acceptance, predicted_rf_train)
 cm_boosting_train <- table(dtest$acceptance, predicted_boosting_train_class)
 cm_boosting_train_b <- table(dtest$acceptance, predicted_boosting_train_b_class)
 
 
-
-
-
-# Funzione per verificare che la matrice di confusione abbia le dimensioni corrette
+# Function to check whether the confusion matrix has the correct dimensions
 check_cm <- function(cm) {
   if (!all(dim(cm) == c(2, 2))) {
     cm <- matrix(0, nrow = 2, ncol = 2, dimnames = list(levels(dtest$acceptance), levels(dtest$acceptance)))
@@ -449,7 +446,7 @@ check_cm <- function(cm) {
   return(cm)
 }
 
-# Definizione delle funzioni per calcolare le metriche
+# Definition of functions to compute the performance metrics
 calculate_accuracy <- function(cm) {
   sum(diag(cm)) / sum(cm)
 }
@@ -480,7 +477,7 @@ calculate_specificity <- function(cm) {
   cm[1, 1] / sum(cm[1, ])
 }
 
-# Calcolo delle metriche per ogni matrice di confusione
+# Computation of performance metrics for each confusion matrix
 metrics <- lapply(list(cm_glm, cm_glm_b, cm_lda, cm_lda_b, cm_qda_train, cm_qda_train_b, cm_nb_train, cm_nb_train_b, cm_rf_train, cm_boosting_train, cm_boosting_train_b), function(cm) {
   cm <- check_cm(cm)
   accuracy <- calculate_accuracy(cm)
@@ -492,16 +489,16 @@ metrics <- lapply(list(cm_glm, cm_glm_b, cm_lda, cm_lda_b, cm_qda_train, cm_qda_
   c(accuracy = accuracy, precision = precision, error = error, f1 = f1, sensitivity = sensitivity, specificity = specificity)
 })
 
-# Converti i risultati in un dataframe
+# Convert the results into a data frame
 metrics_df <- do.call(rbind, metrics)
 rownames(metrics_df) <- c("GLM", "GLM with SMOTE", "LDA", "LDA with SMOTE", "QDA", "QDA with SMOTE", "Naive Bayes", "Naive Bayes with SMOTE", "Random Forest", "Boosting", "Boosting with SMOTE")
 
-# Stampa il dataframe delle metriche
+# Print the metrics data frame
 print(metrics_df)
 
 
 
-##PREDICTION
+## PREDICTION
 
 test<- read.csv(here("data/processed", "test.csv"))
 
@@ -537,94 +534,93 @@ test <- test %>%
 
 # Applying target encoding to transform categorical variables into numerical
 
-# Unisci i valori medi calcolati sul set di dati di addestramento con il set di dati di test
+# Merge the mean values computed on the training dataset with the test dataset
 
-# Estrai i valori unici di EDUCATION
+# Extract unique values of EDUCATION
 unique_education <- unique(dataset$EDUCATION)
 
-# Lista per memorizzare gli indici delle prime occorrenze di EDUCATION
+# List to store the indices of the first occurrences of each EDUCATION category
 first_indices_education <- vector("numeric", length(unique_education))
 
-# Trova il primo indice di ciascun valore di EDUCATION nel dataframe dataset
+# Find the first index of each EDUCATION value in the dataset data frame
 for (i in 1:length(unique_education)) {
   first_indices_education[i] <- which(dataset$EDUCATION == unique_education[i])[1]
 }
 
-# Lista per memorizzare i valori unici di EDUCATION_mean per ciascun valore di EDUCATION
+# List to store the unique EDUCATION_mean values for each EDUCATION category
 unique_education_mean <- sapply(first_indices_education, function(index) dataset$EDUCATION_mean[index])
 
-# Creare un dataframe con EDUCATION e i corrispondenti valori unici di EDUCATION_mean
+# Create a data frame with EDUCATION and the corresponding EDUCATION_mean values
 unique_education_df <- data.frame(EDUCATION = unique_education, EDUCATION_mean = unique_education_mean)
 
 
-# Estrai i valori unici di Type_Income
+# Extract unique values of Type_Income
 unique_type_income <- unique(dataset$Type_Income)
 
-# Lista per memorizzare gli indici delle prime occorrenze di Type_Income
+# List to store the indices of the first occurrences of each Type_Income category
 first_indices_income <- vector("numeric", length(unique_type_income))
 
-# Trova il primo indice di ciascun valore di Type_Income nel dataframe dataset
+# Find the first index of each Type_Income value in the dataset data frame
 for (i in 1:length(unique_type_income)) {
   first_indices_income[i] <- which(dataset$Type_Income == unique_type_income[i])[1]
 }
 
-# Lista per memorizzare i valori unici di Type_Income_mean per ciascun valore di Type_Income
+# List to store the unique Type_Income_mean values for each Type_Income category
 unique_type_income_mean <- sapply(first_indices_income, function(index) dataset$Type_Income_mean[index])
 
-# Creare un dataframe con Type_Income e i corrispondenti valori unici di Type_Income_mean
+# Create a data frame with Type_Income and the corresponding Type_Income_mean values
 unique_type_income_df <- data.frame(Type_Income = unique_type_income, Type_Income_mean = unique_type_income_mean)
 
 
-# Estrai i valori unici di Marital_status
+# Extract unique values of Marital_status
 unique_marital_status <- unique(dataset$Marital_status)
 
-# Lista per memorizzare gli indici delle prime occorrenze di Marital_status
+# List to store the indices of the first occurrences of each Marital_status category
 first_indices_marital <- vector("numeric", length(unique_marital_status))
 
-# Trova il primo indice di ciascun valore di Marital_status nel dataframe dataset
+# Find the first index of each Marital_status value in the dataset data frame
 for (i in 1:length(unique_marital_status)) {
   first_indices_marital[i] <- which(dataset$Marital_status == unique_marital_status[i])[1]
 }
 
-# Lista per memorizzare i valori unici di Marital_status_mean per ciascun valore di Marital_status
+# List to store the unique Marital_status_mean values for each Marital_status category
 unique_marital_status_mean <- sapply(first_indices_marital, function(index) dataset$Marital_status_mean[index])
 
-# Creare un dataframe con Marital_status e i corrispondenti valori unici di Marital_status_mean
+# Create a data frame with Marital_status and the corresponding Marital_status_mean values
 unique_marital_status_df <- data.frame(Marital_status = unique_marital_status, Marital_status_mean = unique_marital_status_mean)
 
-
-# Estrai i valori unici di Housing_type
+# Extract unique values of Housing_type
 unique_housing_type <- unique(dataset$Housing_type)
 
-# Lista per memorizzare gli indici delle prime occorrenze di Housing_type
+# List to store the indices of the first occurrences of each Housing_type category
 first_indices_housing <- vector("numeric", length(unique_housing_type))
 
-# Trova il primo indice di ciascun valore di Housing_type nel dataframe dataset
+# Find the first index of each Housing_type value in the dataset data frame
 for (i in 1:length(unique_housing_type)) {
   first_indices_housing[i] <- which(dataset$Housing_type == unique_housing_type[i])[1]
 }
 
-# Lista per memorizzare i valori unici di Housing_type_mean per ciascun valore di Housing_type
+# List to store the unique Housing_type_mean values for each Housing_type category
 unique_housing_type_mean <- sapply(first_indices_housing, function(index) dataset$Housing_type_mean[index])
 
-# Creare un dataframe con Housing_type e i corrispondenti valori unici di Housing_type_mean
+# Create a data frame with Housing_type and the corresponding Housing_type_mean values
 unique_housing_type_df <- data.frame(Housing_type = unique_housing_type, Housing_type_mean = unique_housing_type_mean)
 
 
-# Lista per memorizzare i valori unici di Type_Occupation_mean per ciascuna occupazione
+# List to store the unique Type_Occupation categories
 unique_occupation <- unique(dataset$Type_Occupation)
 
 first_indices_occupation <- vector("numeric", length(unique_occupation))
 
-# Trova il primo indice di ciascun valore di Occupation nel dataframe dataset
+# Find the first index of each Type_Occupation value in the dataset data frame
 for (i in 1:length(unique_occupation)) {
   first_indices_occupation[i] <- which(dataset$Type_Occupation == unique_occupation[i])[1]
 }
 
-# Lista per memorizzare i valori unici di Occupation_mean per ciascun valore di Occupation
+# List to store the unique Type_Occupation_mean values for each occupation category
 unique_occupation_mean <- sapply(first_indices_occupation, function(index) dataset$Type_Occupation_mean[index])
 
-# Creare un dataframe con Occupation e i corrispondenti valori unici di Occupation_mean
+# Create a data frame with Type_Occupation and the corresponding Type_Occupation_mean values
 unique_occupation_df <- data.frame(Type_Occupation = unique_occupation, Type_Occupation_mean = unique_occupation_mean)
 
 test <- merge(test, unique_type_income_df, by = "Type_Income")
@@ -646,6 +642,7 @@ barplot(test_table, col = "blue", border = NULL, main = "Tables of predictions",
 
 
 write.xlsx(output, here("Dati", "output.xlsx"))
+
 
 
 
