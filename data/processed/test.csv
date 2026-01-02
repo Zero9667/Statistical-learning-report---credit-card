@@ -1,0 +1,310 @@
+"","Ind_ID","GENDER","Car_Owner","Propert_Owner","CHILDREN","Annual_income","Type_Income","EDUCATION","Marital_status","Housing_type","Birthday_count","Employed_days","Mobile_phone","Work_Phone","Phone","EMAIL_ID","Type_Occupation","Family_Members","id_number"
+"1410",5025936,"F","N","Y",0,130500,"Working","Secondary / secondary special","Married","House / apartment",-13520,-5488,1,0,0,0,"Core staff",2,1
+"486",5062713,"F","N","Y",1,157500,"Working","Secondary / secondary special","Married","House / apartment",-14510,-3805,1,0,0,0,"Core staff",3,2
+"740",5029194,"M","Y","Y",0,225000,"Working","Secondary / secondary special","Married","House / apartment",-19293,-2990,1,0,0,0,"Laborers",2,3
+"1122",5142595,"M","Y","Y",0,418500,"Working","Higher education","Married","House / apartment",-19038,-73,1,0,1,0,"",2,4
+"1531",5089954,"M","N","Y",1,126000,"Commercial associate","Secondary / secondary special","Civil marriage","House / apartment",-12755,-2105,1,0,0,0,"",3,5
+"1459",5058408,"M","Y","Y",0,247500,"Working","Higher education","Married","House / apartment",-12843,-2609,1,0,0,0,"Managers",2,6
+"1248",5023527,"F","N","Y",0,274500,"Commercial associate","Secondary / secondary special","Married","House / apartment",-20459,-6930,1,0,0,0,"High skill tech staff",2,7
+"464",5053472,"M","N","Y",0,112500,"Working","Secondary / secondary special","Married","House / apartment",-18516,-2129,1,1,1,0,"Low-skill Laborers",2,8
+"469",5062547,"F","N","Y",3,247500,"Commercial associate","Incomplete higher","Married","House / apartment",-12099,-2207,1,0,0,1,"",5,9
+"650",5050852,"M","N","N",0,180000,"Commercial associate","Higher education","Single / not married","House / apartment",-9488,-1505,1,0,0,0,"High skill tech staff",1,10
+"256",5113539,"F","N","Y",0,157500,"Working","Secondary / secondary special","Married","House / apartment",-20976,-1776,1,0,0,0,"Laborers",2,11
+"655",5135489,"M","Y","Y",2,225000,"Working","Secondary / secondary special","Married","House / apartment",-10380,-3396,1,0,0,0,"Laborers",4,12
+"293",5041073,"F","N","Y",0,67500,"Working","Secondary / secondary special","Single / not married","House / apartment",-18179,-188,1,0,0,0,"Laborers",2,13
+"287",5052865,"F","N","Y",0,94500,"Commercial associate","Incomplete higher","Married","House / apartment",-13870,-3458,1,1,1,0,"Sales staff",2,14
+"1326",5148972,"M","Y","Y",0,495000,"Working","Secondary / secondary special","Single / not married","Rented apartment",-14358,-5373,1,0,0,0,"Cooking staff",1,15
+"920",5041921,"M","N","N",0,135000,"Pensioner","Secondary / secondary special","Married","House / apartment",NA,365243,1,0,1,0,"",2,16
+"1239",5089070,"M","N","N",3,180000,"Working","Secondary / secondary special","Married","House / apartment",-14243,-3535,1,0,0,0,"Laborers",5,17
+"415",5099957,"F","Y","Y",1,225000,"Commercial associate","Higher education","Married","House / apartment",-11239,-460,1,0,0,0,"Accountants",3,18
+"1400",5024666,"F","N","Y",0,157500,"Working","Secondary / secondary special","Married","House / apartment",-14425,-4568,1,1,1,0,"Laborers",2,19
+"199",5022275,"M","Y","Y",0,131400,"Pensioner","Secondary / secondary special","Married","House / apartment",-23646,365243,1,0,0,0,"",2,20
+"968",5052731,"F","N","Y",0,180000,"Commercial associate","Secondary / secondary special","Civil marriage","House / apartment",-13812,-1114,1,0,0,0,"Laborers",2,21
+"859",5024263,"F","Y","N",0,202500,"Commercial associate","Secondary / secondary special","Married","Municipal apartment",-21276,-1128,1,0,1,0,"Accountants",2,22
+"495",5078924,"M","N","Y",0,270000,"Working","Secondary / secondary special","Married","House / apartment",-16116,-1000,1,0,1,0,"Laborers",2,23
+"1310",5026539,"F","N","Y",0,112500,"Working","Secondary / secondary special","Single / not married","House / apartment",-15839,-1381,1,0,1,0,"High skill tech staff",1,24
+"471",5024665,"F","N","Y",0,157500,"Working","Secondary / secondary special","Married","House / apartment",-14425,-4568,1,1,1,0,"Laborers",2,25
+"835",5113510,"M","Y","Y",0,180000,"Working","Secondary / secondary special","Married","House / apartment",-17176,-132,1,0,0,0,"Laborers",2,26
+"948",5095873,"F","N","N",0,202500,"Working","Higher education","Civil marriage","House / apartment",-15309,-5179,1,1,1,0,"Core staff",2,27
+"1011",5067893,"M","Y","Y",0,292500,"Working","Secondary / secondary special","Married","Rented apartment",-17011,-901,1,0,0,0,"",2,28
+"490",5024258,"M","N","Y",0,162000,"Working","Secondary / secondary special","Single / not married","House / apartment",-11495,-581,1,0,0,0,"Security staff",1,29
+"738",5033881,"M","Y","N",1,202500,"Commercial associate","Incomplete higher","Married","House / apartment",-10780,-3769,1,0,0,0,"Laborers",3,30
+"223",5096424,"M","Y","N",0,270000,"Commercial associate","Higher education","Separated","House / apartment",-11621,-2349,1,0,1,0,"",1,31
+"385",5023460,"F","Y","Y",0,315000,"Pensioner","Secondary / secondary special","Single / not married","House / apartment",-21012,365243,1,0,0,0,"",1,32
+"1154",5146410,"M","N","Y",0,211500,"Working","Secondary / secondary special","Single / not married","House / apartment",-10072,-1101,1,1,1,0,"Core staff",1,33
+"745",5089760,"M","Y","Y",0,180000,"State servant","Higher education","Single / not married","House / apartment",-8190,-886,1,0,0,1,"",1,34
+"733",5091416,"F","N","Y",0,225000,"Working","Higher education","Married","House / apartment",-16202,-2939,1,1,1,0,"Managers",2,35
+"1003",5142972,"M","N","N",1,180000,"Working","Secondary / secondary special","Single / not married","House / apartment",-10656,-926,1,1,1,0,"Laborers",3,36
+"330",5145869,"F","N","Y",0,225000,"Pensioner","Secondary / secondary special","Separated","House / apartment",-20978,365243,1,0,1,0,"",1,37
+"770",5117323,"F","N","Y",1,382500,"State servant","Higher education","Single / not married","With parents",-12116,-553,1,0,0,0,"Managers",2,38
+"675",5118225,"M","Y","N",0,225000,"Working","Secondary / secondary special","Civil marriage","Office apartment",-20858,-3110,1,0,0,0,"Laborers",2,39
+"981",5111172,"M","Y","Y",0,225000,"Working","Higher education","Married","Rented apartment",-10602,-481,1,0,0,0,"Sales staff",2,40
+"248",5009195,"F","N","N",0,292500,"State servant","Secondary / secondary special","Married","House / apartment",-20953,-8684,1,1,1,0,"Accountants",2,41
+"1317",5092349,"F","N","Y",0,225000,"Working","Secondary / secondary special","Widow","House / apartment",-19252,-2057,1,0,0,0,"Sales staff",1,42
+"1355",5096609,"F","Y","N",1,225000,"Working","Higher education","Civil marriage","House / apartment",-13528,-980,1,1,1,0,"Core staff",3,43
+"616",5100394,"M","N","Y",1,315000,"Commercial associate","Secondary / secondary special","Married","House / apartment",-12287,-3900,1,0,0,0,"Core staff",3,44
+"1337",5091630,"F","N","Y",0,202500,"Working","Secondary / secondary special","Married","House / apartment",-19431,-6226,1,0,0,0,"High skill tech staff",2,45
+"521",5095117,"F","N","Y",0,67500,"Working","Higher education","Married","House / apartment",-14240,-1586,1,0,0,0,"Core staff",2,46
+"1444",5142248,"F","N","Y",0,225000,"State servant","Secondary / secondary special","Married","House / apartment",-19826,-2340,1,0,0,0,"Private service staff",2,47
+"665",5113006,"M","Y","N",1,112500,"Working","Secondary / secondary special","Married","House / apartment",-19584,-2199,1,0,0,0,"Laborers",3,48
+"1347",5125203,"F","N","Y",0,202500,"Working","Incomplete higher","Single / not married","House / apartment",-18596,-7288,1,0,0,0,"Core staff",1,49
+"892",5139757,"M","Y","Y",0,337500,"Working","Higher education","Married","House / apartment",-23711,-7494,1,0,0,0,"Laborers",2,50
+"1180",5023475,"F","Y","Y",0,315000,"Pensioner","Secondary / secondary special","Single / not married","House / apartment",-21012,365243,1,0,0,0,"",1,51
+"1509",5009798,"F","N","N",0,198000,"Pensioner","Secondary / secondary special","Widow","House / apartment",-22002,365243,1,0,1,0,"",1,52
+"573",5024586,"F","Y","Y",2,315000,"State servant","Secondary / secondary special","Married","House / apartment",-12348,-1220,1,0,0,0,"Managers",4,53
+"1465",5046495,"F","N","Y",0,180000,"Pensioner","Secondary / secondary special","Married","House / apartment",-21554,365243,1,0,0,0,"",2,54
+"1430",5142691,"M","Y","N",2,135000,"State servant","Secondary / secondary special","Married","House / apartment",-14038,-6558,1,1,1,0,"Core staff",4,55
+"1218",5113861,"M","N","N",0,135000,"Working","Secondary / secondary special","Married","House / apartment",-10368,-1259,1,1,0,0,"High skill tech staff",2,56
+"1517",5028858,"M","Y","Y",1,157500,"Working","Secondary / secondary special","Married","House / apartment",-13867,-3095,1,0,0,0,"Laborers",3,57
+"1100",5125804,"F","N","Y",0,270000,"Working","Secondary / secondary special","Separated","House / apartment",-18340,-2052,1,0,0,1,"Laborers",1,58
+"1536",5089719,"F","N","N",0,144000,"Working","Secondary / secondary special","Married","House / apartment",-19984,-4662,1,0,1,0,"",2,59
+"970",5045614,"M","Y","Y",1,360000,"Working","Higher education","Married","House / apartment",-15556,-1327,1,0,0,0,"Drivers",3,60
+"304",5126457,"F","N","N",0,94500,"Working","Higher education","Married","House / apartment",-16825,-196,1,0,0,0,"Security staff",2,61
+"1191",5113711,"F","Y","Y",1,405000,"State servant","Secondary / secondary special","Married","House / apartment",-16962,-407,1,0,1,1,"Laborers",3,62
+"749",5125127,"F","N","Y",0,112500,"Working","Secondary / secondary special","Single / not married","House / apartment",-16098,-1868,1,1,1,0,"Managers",1,63
+"432",5024578,"F","N","N",1,90000,"Working","Secondary / secondary special","Married","With parents",-10253,-1462,1,0,0,0,"Laborers",3,64
+"666",5026368,"M","N","Y",1,112500,"Working","Higher education","Married","House / apartment",-13682,-5460,1,1,1,0,"",3,65
+"1463",5068811,"F","N","Y",0,315000,"Commercial associate","Secondary / secondary special","Married","House / apartment",-14419,-2423,1,0,0,0,"",2,66
+"1083",5053744,"F","N","Y",0,360000,"State servant","Higher education","Married","House / apartment",-16182,-3163,1,0,1,0,"Managers",2,67
+"511",5118270,"F","N","N",0,99000,"Working","Secondary / secondary special","Married","With parents",-19566,-5453,1,1,0,0,"Medicine staff",2,68
+"585",5105743,"M","Y","N",2,112500,"Working","Higher education","Married","House / apartment",NA,-6693,1,1,1,0,"High skill tech staff",4,69
+"649",5091006,"F","N","Y",0,157500,"Commercial associate","Secondary / secondary special","Married","House / apartment",-17211,-3232,1,0,0,0,"Laborers",2,70
+"444",5085704,"M","Y","Y",0,126000,"Pensioner","Secondary / secondary special","Married","House / apartment",-19474,365243,1,0,0,0,"",2,71
+"991",5045255,"F","N","Y",1,270000,"Working","Secondary / secondary special","Married","House / apartment",-20854,-3689,1,0,0,0,"Core staff",3,72
+"1377",5025089,"F","N","Y",0,90000,"Pensioner","Secondary / secondary special","Married","House / apartment",-22034,365243,1,0,0,0,"",2,73
+"453",5091280,"M","N","Y",1,103500,"Working","Secondary / secondary special","Married","House / apartment",-11822,-657,1,1,0,0,"Laborers",3,74
+"224",5046283,"F","N","Y",0,67050,"Pensioner","Higher education","Married","House / apartment",-24305,365243,1,0,0,0,"",2,75
+"1464",5068238,"F","N","Y",0,247500,"Working","Secondary / secondary special","Married","House / apartment",-11268,-2545,1,1,1,0,"Laborers",2,76
+"1341",5149799,"F","N","Y",0,126000,"Commercial associate","Secondary / secondary special","Civil marriage","Municipal apartment",-10418,-2024,1,1,1,0,"Laborers",2,77
+"1527",5065477,"M","N","N",1,148500,"Working","Secondary / secondary special","Married","House / apartment",-13574,-109,1,0,0,0,"Laborers",3,78
+"1240",5041367,"F","N","N",0,180000,"State servant","Incomplete higher","Married","House / apartment",-10315,-2985,1,0,0,0,"Core staff",2,79
+"916",5143620,"F","N","Y",0,NA,"Pensioner","Secondary / secondary special","Married","House / apartment",-23208,365243,1,0,1,0,"",2,80
+"941",5054106,"F","N","N",0,67500,"Pensioner","Secondary / secondary special","Separated","House / apartment",-21516,365243,1,0,0,0,"",1,81
+"312",5033628,"F","N","Y",0,166500,"State servant","Higher education","Married","House / apartment",-23599,-13382,1,0,0,0,"",2,82
+"234",5143235,"F","Y","Y",1,1575000,"Commercial associate","Higher education","Single / not married","House / apartment",-10142,-2479,1,0,0,0,"Managers",2,83
+"1443",5061161,"M","Y","Y",3,202500,"Working","Secondary / secondary special","Married","House / apartment",-13300,-3668,1,0,1,0,"",5,84
+"411",5065673,"F","N","N",0,135000,"Working","Secondary / secondary special","Single / not married","House / apartment",-11512,-4711,1,0,0,0,"",1,85
+"550",5126142,"M","Y","N",2,202500,"Working","Secondary / secondary special","Married","House / apartment",-15904,-3787,1,0,0,0,"Laborers",4,86
+"343",5066817,"F","Y","N",1,360000,"Working","Higher education","Widow","House / apartment",-16480,-4023,1,0,0,1,"Managers",2,87
+"753",5090126,"M","Y","Y",0,270000,"Working","Secondary / secondary special","Single / not married","House / apartment",-13805,-1557,1,0,0,0,"Laborers",1,88
+"821",5068963,"M","Y","N",0,202500,"Working","Higher education","Married","House / apartment",-15181,-3062,1,0,0,0,"",2,89
+"1049",5041881,"M","N","N",0,112500,"Working","Secondary / secondary special","Civil marriage","Rented apartment",-14778,-2530,1,0,0,0,"",2,90
+"1354",5096415,"F","N","N",0,76500,"Working","Secondary / secondary special","Married","House / apartment",-16876,-97,1,1,0,0,"",2,91
+"958",5114630,"F","N","Y",0,81000,"Working","Secondary / secondary special","Married","House / apartment",-19738,-286,1,1,0,0,"Sales staff",2,92
+"694",5132569,"F","N","Y",1,112500,"Commercial associate","Secondary / secondary special","Civil marriage","House / apartment",-14934,-1350,1,0,1,0,"Sales staff",3,93
+"1074",5113057,"F","Y","N",0,202500,"Commercial associate","Incomplete higher","Separated","House / apartment",-14096,-1344,1,0,1,1,"Accountants",1,94
+"863",5096336,"F","Y","N",0,153000,"Pensioner","Secondary / secondary special","Widow","House / apartment",-23679,365243,1,0,1,0,"",1,95
+"1217",5028907,"F","N","N",0,67500,"Working","Secondary / secondary special","Married","House / apartment",-9963,-1876,1,0,0,0,"Sales staff",2,96
+"284",5038814,"F","N","Y",0,247500,"Commercial associate","Secondary / secondary special","Married","House / apartment",-19366,-746,1,0,0,0,"",2,97
+"1084",5117698,"M","Y","N",0,315000,"Working","Higher education","Married","House / apartment",-20319,-3961,1,1,0,0,"",2,98
+"1471",5041739,"M","N","Y",1,157500,"Working","Secondary / secondary special","Married","House / apartment",-12585,-367,1,0,0,0,"Sales staff",3,99
+"280",5139662,"F","N","Y",0,157500,"Pensioner","Lower secondary","Married","House / apartment",-23483,365243,1,0,0,0,"",2,100
+"1275",5095952,"F","N","N",2,193500,"Working","Higher education","Married","With parents",-15011,-7614,1,1,1,0,"",4,101
+"1174",5061253,"F","N","Y",0,112500,"Working","Incomplete higher","Civil marriage","House / apartment",-9301,-1751,1,0,0,0,"",2,102
+"1480",5126562,"F","N","N",0,450000,"Working","Higher education","Married","House / apartment",-11082,-3361,1,0,0,0,"Sales staff",2,103
+"408",5105067,"M","N","Y",0,157500,"Working","Incomplete higher","Married","House / apartment",-13682,-453,1,1,1,0,"",2,104
+"668",5113440,"F","N","Y",0,207000,"Working","Secondary / secondary special","Single / not married","House / apartment",-18617,-2506,1,0,0,0,"Cooking staff",1,105
+"976",5150164,"F","N","N",0,135000,"Pensioner","Secondary / secondary special","Widow","Municipal apartment",-23643,365243,1,0,1,0,"",1,106
+"1427",5054625,"F","N","Y",0,112500,"Pensioner","Secondary / secondary special","Widow","House / apartment",-22034,365243,1,0,0,0,"",1,107
+"364",5022373,"F","N","Y",1,234000,"Working","Secondary / secondary special","Single / not married","House / apartment",-20693,-8036,1,0,0,0,"Core staff",2,108
+"917",5023949,"M","Y","Y",1,148500,"Working","Secondary / secondary special","Married","House / apartment",-14962,-5176,1,0,0,0,"Laborers",3,109
+"868",5023389,"M","Y","Y",2,157500,"Commercial associate","Higher education","Married","House / apartment",-13536,-2092,1,0,0,0,"Core staff",4,110
+"1533",5125261,"M","N","Y",0,157500,"Commercial associate","Higher education","Married","House / apartment",-15423,-1200,1,1,1,0,"",2,111
+"1112",5113556,"M","Y","Y",0,450000,"Commercial associate","Secondary / secondary special","Married","House / apartment",-18318,-923,1,0,1,1,"Drivers",2,112
+"461",5054188,"F","N","N",0,135000,"Working","Secondary / secondary special","Married","House / apartment",-11390,-515,1,0,1,0,"Sales staff",2,113
+"551",5067020,"F","Y","Y",1,247500,"Working","Secondary / secondary special","Civil marriage","House / apartment",-17152,-1253,1,0,0,1,"Laborers",3,114
+"346",5150412,"F","N","Y",0,67500,"Pensioner","Secondary / secondary special","Widow","House / apartment",-22116,365243,1,0,0,0,"",1,115
+"806",5010078,"M","Y","N",2,157500,"Working","Secondary / secondary special","Married","Municipal apartment",-12518,-1135,1,0,0,0,"Cleaning staff",4,116
+"1021",5048542,"F","N","Y",0,121900.5,"Pensioner","Secondary / secondary special","Married","House / apartment",-15946,365243,1,0,0,0,"",2,117
+"1136",5091766,"M","N","Y",0,247500,"Working","Secondary / secondary special","Married","House / apartment",-17454,-2361,1,0,0,0,"Laborers",2,118
+"1082",5087536,"M","N","Y",0,81000,"Commercial associate","Higher education","Single / not married","House / apartment",-9874,-1928,1,0,1,0,"Laborers",1,119
+"1230",5088205,"F","N","Y",0,153000,"Pensioner","Secondary / secondary special","Separated","House / apartment",-21778,365243,1,0,1,0,"",1,120
+"1035",5116606,"M","Y","Y",0,180000,"Working","Incomplete higher","Married","House / apartment",-17115,-4599,1,0,1,0,"Laborers",2,121
+"570",5025741,"F","Y","N",0,216000,"Working","Higher education","Married","Municipal apartment",-11974,-282,1,0,1,0,"Sales staff",2,122
+"849",5089681,"F","N","N",0,261000,"Commercial associate","Incomplete higher","Married","House / apartment",-10028,-1070,1,1,0,0,"",2,123
+"190",5022326,"M","Y","Y",0,256500,"Commercial associate","Higher education","Married","House / apartment",-21503,-1674,1,0,0,1,"Core staff",2,124
+"1272",5091983,"M","N","Y",0,112500,"Commercial associate","Higher education","Married","House / apartment",-21601,-808,1,1,0,1,"Managers",2,125
+"923",5095939,"M","N","N",0,157500,"Working","Secondary / secondary special","Married","House / apartment",-17340,-3596,1,0,1,0,"Managers",2,126
+"909",5041271,"M","N","Y",0,445500,"Commercial associate","Higher education","Separated","House / apartment",-19298,-2469,1,0,0,0,"",1,127
+"1167",5028802,"F","N","N",2,112500,"Working","Secondary / secondary special","Married","House / apartment",-15766,-1086,1,0,0,0,"Laborers",4,128
+"1103",5033728,"F","Y","Y",1,202500,"Working","Secondary / secondary special","Married","House / apartment",-13666,-2089,1,1,1,0,"Core staff",3,129
+"656",5067016,"M","N","Y",0,225000,"Working","Secondary / secondary special","Single / not married","House / apartment",-9926,-461,1,0,0,0,"Drivers",1,130
+"1061",5089275,"F","Y","N",0,315000,"Working","Higher education","Married","House / apartment",-13592,-3504,1,0,1,1,"Accountants",2,131
+"494",5038932,"F","N","Y",0,94500,"Commercial associate","Higher education","Separated","House / apartment",-14548,-6317,1,0,1,0,"Medicine staff",1,132
+"437",5045611,"F","N","Y",2,90000,"Working","Secondary / secondary special","Married","House / apartment",-11762,-716,1,0,0,0,"",4,133
+"779",5041147,"F","N","Y",0,90000,"Pensioner","Secondary / secondary special","Civil marriage","House / apartment",-23236,365243,1,0,0,0,"",2,134
+"253",5038897,"F","N","Y",0,135000,"Pensioner","Secondary / secondary special","Married","House / apartment",-22886,365243,1,0,1,0,"",2,135
+"945",5068147,"F","N","Y",0,157500,"Pensioner","Secondary / secondary special","Single / not married","House / apartment",-20441,365243,1,0,0,0,"",1,136
+"620",5046336,"F","N","N",1,85500,"Working","Secondary / secondary special","Civil marriage","House / apartment",-10217,-900,1,1,0,0,"Accountants",3,137
+"201",5066709,"F","N","Y",0,247500,"Pensioner","Secondary / secondary special","Widow","House / apartment",-24511,365243,1,0,0,0,"",1,138
+"890",5052620,"M","Y","Y",1,180000,"Commercial associate","Secondary / secondary special","Married","House / apartment",-15988,-1994,1,0,1,0,"High skill tech staff",3,139
+"1013",5135531,"M","Y","Y",0,225000,"Working","Secondary / secondary special","Separated","House / apartment",-13867,-1751,1,0,0,0,"Drivers",1,140
+"1404",5114227,"M","Y","N",2,247500,"Working","Secondary / secondary special","Married","House / apartment",-18338,-5673,1,1,0,0,"Laborers",4,141
+"1467",5125510,"M","N","Y",1,202500,"Commercial associate","Secondary / secondary special","Married","House / apartment",-14952,-104,1,0,1,0,"Security staff",3,142
+"1435",5045798,"F","Y","N",0,202500,"Working","Higher education","Married","House / apartment",-9242,-139,1,0,0,0,"Accountants",2,143
+"263",5038845,"F","N","Y",0,103500,"Commercial associate","Secondary / secondary special","Married","House / apartment",-17007,-1569,1,1,1,0,"Sales staff",2,144
+"1246",5047929,"M","Y","N",0,292500,"Working","Secondary / secondary special","Single / not married","House / apartment",-13999,-1526,1,0,1,0,"Drivers",1,145
+"1181",5035866,"F","N","Y",0,247500,"Commercial associate","Secondary / secondary special","Married","House / apartment",-17656,-1225,1,0,0,0,"Cooking staff",2,146
+"1293",5145920,"M","Y","Y",1,180000,"Commercial associate","Higher education","Married","House / apartment",-15131,-1466,1,0,0,1,"",3,147
+"255",5044935,"M","N","Y",2,360000,"State servant","Higher education","Married","House / apartment",-16027,-5639,1,0,1,0,"Managers",4,148
+"1513",5045070,"F","N","N",0,112500,"Working","Secondary / secondary special","Married","House / apartment",-10344,-2533,1,0,0,0,"Laborers",2,149
+"1290",5023706,"F","N","Y",0,180000,"Working","Secondary / secondary special","Married","House / apartment",-17733,-5622,1,0,1,0,"Laborers",2,150
+"203",5053592,"F","N","Y",1,117000,"Working","Lower secondary","Widow","House / apartment",-17633,-3072,1,0,1,0,"",2,151
+"1331",5044809,"F","N","Y",0,135000,"Working","Higher education","Single / not married","House / apartment",-9100,-1133,1,0,0,0,"Managers",1,152
+"819",5135446,"F","N","Y",1,225000,"Working","Secondary / secondary special","Married","With parents",-10035,-170,1,0,0,0,"Cleaning staff",3,153
+"479",5148897,"M","N","Y",0,90900,"Pensioner","Secondary / secondary special","Married","House / apartment",-22233,365243,1,0,1,0,"",2,154
+"1261",5092021,"F","N","Y",0,135000,"Working","Secondary / secondary special","Married","House / apartment",-13211,-777,1,1,1,0,"Core staff",2,155
+"700",5010303,"F","N","Y",0,189000,"Commercial associate","Secondary / secondary special","Married","House / apartment",-20233,-6218,1,1,1,0,"",2,156
+"219",5067643,"F","N","Y",0,171000,"Pensioner","Higher education","Married","House / apartment",-19961,365243,1,0,0,0,"",2,157
+"1056",5149980,"F","N","Y",1,405000,"State servant","Higher education","Married","House / apartment",-12732,-4520,1,0,0,0,"Core staff",3,158
+"526",5053388,"F","N","Y",0,135000,"Working","Secondary / secondary special","Civil marriage","House / apartment",-16300,-9698,1,0,0,1,"Managers",2,159
+"530",5092436,"F","Y","Y",0,112500,"Pensioner","Secondary / secondary special","Married","House / apartment",-19921,365243,1,0,1,0,"",2,160
+"184",5067187,"F","N","Y",0,112500,"Working","Higher education","Married","House / apartment",-11432,-820,1,1,0,0,"Core staff",2,161
+"395",5135841,"F","N","Y",1,36000,"Working","Secondary / secondary special","Married","House / apartment",-12417,-1113,1,0,1,0,"Core staff",3,162
+"1257",5091771,"M","N","Y",0,247500,"Working","Secondary / secondary special","Married","House / apartment",-17454,-2361,1,0,0,0,"Laborers",2,163
+"1391",5079004,"F","N","Y",0,165600,"Pensioner","Secondary / secondary special","Widow","House / apartment",-21383,365243,1,0,1,0,"",1,164
+"1546",5115992,"M","Y","Y",2,180000,"Working","Higher education","Married","House / apartment",-13174,-2477,1,0,0,0,"Managers",4,165
+"1059",5105499,"F","N","Y",0,202500,"Working","Higher education","Married","House / apartment",-10669,-1495,1,0,0,0,"",2,166
+"300",5021267,"F","Y","Y",1,270000,"Working","Secondary / secondary special","Married","House / apartment",-14512,-4596,1,0,0,0,"Laborers",3,167
+"265",5028383,"M","Y","N",0,337500,"Working","Secondary / secondary special","Single / not married","With parents",-11344,-3309,1,0,0,0,"Core staff",1,168
+"1212",5042130,"F","N","N",0,247500,"Working","Higher education","Married","House / apartment",-14136,-7400,1,1,1,0,"Managers",2,169
+"210",5096234,"F","N","N",0,117000,"Working","Secondary / secondary special","Married","House / apartment",-17087,-7310,1,1,1,0,"Medicine staff",2,170
+"1497",5067299,"M","N","Y",0,225000,"Commercial associate","Secondary / secondary special","Single / not married","House / apartment",-9149,-1217,1,0,0,1,"Laborers",1,171
+"939",5054297,"F","Y","N",0,112500,"Working","Secondary / secondary special","Married","House / apartment",-14060,-7364,1,1,0,0,"Cooking staff",2,172
+"238",5051061,"F","N","N",2,112500,"Commercial associate","Secondary / secondary special","Married","House / apartment",-11945,-1323,1,0,1,0,"",4,173
+"1511",5118580,"F","Y","Y",0,180000,"Working","Secondary / secondary special","Married","House / apartment",-13052,-1741,1,0,0,0,"Laborers",2,174
+"424",5068671,"M","N","Y",0,247500,"Working","Incomplete higher","Married","House / apartment",-9159,-413,1,0,0,0,"Core staff",2,175
+"826",5033500,"M","N","Y",0,202500,"Commercial associate","Secondary / secondary special","Married","House / apartment",-17578,-1997,1,0,0,0,"Laborers",2,176
+"1352",5010874,"F","N","Y",0,45000,"Pensioner","Secondary / secondary special","Married","House / apartment",-20688,365243,1,0,1,0,"",2,177
+"366",5113291,"F","Y","Y",2,121500,"Working","Incomplete higher","Married","House / apartment",-11327,-101,1,1,1,0,"Core staff",4,178
+"1493",5118441,"F","Y","N",1,108000,"Commercial associate","Higher education","Married","House / apartment",-16138,-431,1,1,0,0,"Sales staff",3,179
+"1425",5069007,"M","Y","Y",0,337500,"Working","Higher education","Married","With parents",-10622,-1175,1,0,0,0,"Laborers",2,180
+"497",5046036,"F","Y","Y",0,99000,"Pensioner","Secondary / secondary special","Civil marriage","House / apartment",-21527,365243,1,0,0,0,"",2,181
+"857",5009291,"F","N","N",0,130500,"Working","Secondary / secondary special","Civil marriage","House / apartment",-15140,-4816,1,0,1,0,"Cleaning staff",2,182
+"1311",5048478,"M","Y","N",0,225000,"Working","Secondary / secondary special","Single / not married","House / apartment",-9187,-308,1,0,0,0,"Core staff",1,183
+"1273",5062106,"M","Y","Y",0,135000,"Commercial associate","Secondary / secondary special","Married","House / apartment",-19008,-3607,1,0,0,0,"Managers",2,184
+"701",5142496,"F","Y","Y",1,135000,"Commercial associate","Higher education","Married","House / apartment",-15481,-2874,1,0,0,0,"Private service staff",3,185
+"1371",5044594,"M","N","Y",0,67500,"Pensioner","Secondary / secondary special","Separated","House / apartment",-22351,365243,1,0,1,0,"",1,186
+"969",5137175,"F","N","N",0,225000,"Working","Secondary / secondary special","Married","House / apartment",-20142,-3760,1,1,1,0,"Sales staff",2,187
+"1519",5112652,"F","N","N",0,67500,"Working","Secondary / secondary special","Married","With parents",-16182,-2827,1,1,1,0,"Cooking staff",2,188
+"367",5139951,"F","Y","Y",0,121500,"State servant","Secondary / secondary special","Married","House / apartment",-19988,-3231,1,1,0,0,"",2,189
+"929",5054460,"M","Y","N",1,135000,"Working","Secondary / secondary special","Married","House / apartment",-18934,-1915,1,0,1,0,"Laborers",3,190
+"326",5137401,"F","N","N",0,157500,"Working","Higher education","Separated","House / apartment",-17237,-3000,1,0,0,0,"Medicine staff",1,191
+"705",5139321,"F","N","Y",0,121500,"Pensioner","Higher education","Widow","House / apartment",-24231,365243,1,0,0,0,"",1,192
+"778",5010865,"M","Y","Y",1,450000,"Commercial associate","Secondary / secondary special","Married","House / apartment",-18173,-678,1,0,1,1,"Core staff",3,193
+"1360",5067006,"M","N","Y",1,157500,"Working","Secondary / secondary special","Civil marriage","House / apartment",-20315,-5454,1,0,0,0,"Laborers",3,194
+"1521",5105069,"M","N","Y",0,157500,"Working","Incomplete higher","Married","House / apartment",-13682,-453,1,1,1,0,"",2,195
+"388",5024527,"F","N","Y",0,270000,"Pensioner","Secondary / secondary special","Widow","House / apartment",-20967,365243,1,0,1,0,"",1,196
+"198",5056077,"M","Y","Y",0,90000,"Working","Secondary / secondary special","Married","House / apartment",-12154,-1547,1,0,0,0,"Core staff",2,197
+"809",5149433,"F","Y","Y",0,112500,"Working","Secondary / secondary special","Widow","House / apartment",-19584,-2633,1,0,0,0,"",1,198
+"1204",5137163,"F","N","N",0,211500,"Working","Secondary / secondary special","Married","House / apartment",-17249,-1661,1,1,1,0,"",2,199
+"626",5009023,"F","N","Y",2,216000,"State servant","Higher education","Married","House / apartment",-15444,-3112,1,0,0,1,"",4,200
+"1544",5028645,"F","N","Y",0,NA,"Commercial associate","Higher education","Married","House / apartment",-11957,-2182,1,0,0,0,"Managers",2,201
+"691",5033906,"M","Y","Y",0,90000,"Pensioner","Secondary / secondary special","Married","House / apartment",-18351,365243,1,0,0,0,"",2,202
+"1505",5068310,"M","N","Y",1,198000,"Commercial associate","Incomplete higher","Single / not married","House / apartment",-9649,-140,1,0,0,0,"Managers",2,203
+"1262",5046083,"F","Y","Y",0,99000,"Working","Secondary / secondary special","Married","House / apartment",-21030,-2299,1,0,0,0,"",2,204
+"543",5097106,"F","N","Y",0,193500,"Working","Secondary / secondary special","Married","House / apartment",-21026,-11448,1,0,1,0,"",2,205
+"1019",5045513,"M","Y","N",1,180000,"Working","Secondary / secondary special","Married","House / apartment",-11498,-4491,1,0,0,0,"",3,206
+"683",5137385,"F","N","N",0,112500,"Pensioner","Secondary / secondary special","Civil marriage","House / apartment",-23272,365243,1,0,1,0,"",2,207
+"1330",5021214,"M","Y","Y",1,225000,"State servant","Higher education","Married","House / apartment",-12763,-2255,1,0,1,0,"Core staff",3,208
+"406",5062670,"F","Y","Y",1,135000,"Working","Higher education","Married","House / apartment",-14863,-4407,1,0,0,0,"Managers",3,209
+"1205",5054064,"M","N","N",1,157500,"Working","Secondary / secondary special","Married","House / apartment",-16424,-1458,1,0,0,0,"Drivers",3,210
+"1173",5112870,"M","Y","Y",1,360000,"Working","Secondary / secondary special","Married","House / apartment",-20998,-2932,1,0,1,0,"Laborers",3,211
+"818",5139892,"F","N","Y",0,112500,"State servant","Secondary / secondary special","Civil marriage","House / apartment",-18484,-6033,1,0,1,0,"Medicine staff",2,212
+"1321",5089117,"F","Y","N",0,90000,"Working","Higher education","Single / not married","House / apartment",-15969,-5483,1,1,1,0,"Core staff",1,213
+"954",5061481,"F","N","Y",1,225000,"Commercial associate","Higher education","Married","House / apartment",-9615,-2266,1,0,0,1,"Managers",3,214
+"796",5028919,"F","Y","Y",0,112500,"Working","Secondary / secondary special","Married","House / apartment",-17202,-1787,1,0,0,0,"Sales staff",2,215
+"1002",5146034,"M","N","Y",0,157500,"Working","Secondary / secondary special","Single / not married","House / apartment",-17111,-4146,1,0,0,0,"Cooking staff",1,216
+"767",5087829,"M","N","Y",0,135000,"State servant","Secondary / secondary special","Married","Rented apartment",-10448,-2323,1,1,0,1,"",2,217
+"407",5029352,"M","Y","Y",0,270000,"Working","Higher education","Married","House / apartment",-10942,-412,1,0,0,0,"Drivers",2,218
+"335",5044860,"F","N","Y",0,167400,"Pensioner","Secondary / secondary special","Married","House / apartment",-19028,365243,1,0,0,0,"",2,219
+"294",5149660,"F","N","Y",1,180000,"Commercial associate","Secondary / secondary special","Civil marriage","House / apartment",-11920,-2967,1,0,0,0,"Realty agents",3,220
+"1274",5052806,"F","N","Y",0,81000,"Working","Secondary / secondary special","Single / not married","House / apartment",-19210,-2454,1,0,1,0,"",1,221
+"1256",5065808,"F","N","N",1,76500,"Working","Higher education","Married","House / apartment",-15915,-785,1,1,1,0,"Sales staff",3,222
+"1431",5067696,"M","Y","Y",0,450000,"Working","Higher education","Married","House / apartment",-19087,-4434,1,0,1,0,"Managers",2,223
+"360",5029725,"F","N","Y",1,135000,"Commercial associate","Higher education","Married","House / apartment",-9778,-2910,1,1,0,1,"Core staff",3,224
+"1486",5067312,"F","Y","Y",0,225000,"Pensioner","Secondary / secondary special","Married","House / apartment",-22920,365243,1,0,0,0,"",2,225
+"512",5095324,"F","N","Y",0,315000,"Pensioner","Secondary / secondary special","Widow","House / apartment",-22854,365243,1,0,1,0,"",1,226
+"1226",5143046,"M","Y","N",2,360000,"Working","Secondary / secondary special","Married","House / apartment",-16030,-2540,1,1,0,0,"Drivers",4,227
+"472",5089626,"F","N","N",0,315000,"Commercial associate","Higher education","Married","House / apartment",-16188,-309,1,1,1,1,"Sales staff",2,228
+"1042",5126518,"M","Y","N",0,157500,"Working","Higher education","Married","House / apartment",-20516,-2265,1,0,1,0,"Laborers",2,229
+"1284",5062525,"F","N","Y",1,112500,"Working","Higher education","Married","House / apartment",-13656,-2207,1,0,1,0,"Sales staff",3,230
+"993",5136020,"M","Y","N",1,351000,"Commercial associate","Secondary / secondary special","Married","House / apartment",-16143,-8479,1,0,0,0,"Private service staff",3,231
+"1373",5135474,"F","N","Y",0,180000,"Working","Secondary / secondary special","Married","House / apartment",-19881,-7718,1,0,0,0,"Secretaries",2,232
+"1466",5023491,"M","Y","Y",0,83250,"Working","Secondary / secondary special","Married","House / apartment",-20592,-6230,1,1,1,1,"",2,233
+"635",5105560,"F","N","Y",0,202500,"Commercial associate","Secondary / secondary special","Civil marriage","House / apartment",-16817,-4410,1,0,0,1,"Sales staff",2,234
+"1119",5053941,"F","N","N",0,135000,"Pensioner","Secondary / secondary special","Widow","House / apartment",-21100,365243,1,0,1,0,"",1,235
+"1498",5010344,"F","N","N",0,216000,"Pensioner","Secondary / secondary special","Married","House / apartment",-22867,365243,1,0,0,0,"",2,236
+"323",5126322,"F","N","N",0,270000,"Working","Secondary / secondary special","Married","House / apartment",-17778,-1719,1,1,1,0,"High skill tech staff",2,237
+"637",5053032,"F","N","Y",0,135000,"Pensioner","Secondary / secondary special","Married","House / apartment",-20755,365243,1,0,0,0,"",2,238
+"1441",5143025,"M","N","N",0,270000,"Working","Secondary / secondary special","Married","With parents",-11768,-622,1,1,1,0,"Laborers",2,239
+"1090",5056237,"F","N","Y",0,40500,"Working","Secondary / secondary special","Married","House / apartment",-12729,-4936,1,1,0,0,"Cleaning staff",2,240
+"1225",5051156,"M","N","N",1,247500,"Working","Higher education","Single / not married","House / apartment",-13816,-1870,1,0,0,0,"Laborers",2,241
+"1299",5116801,"M","N","Y",1,225000,"Working","Secondary / secondary special","Married","House / apartment",-16286,-1677,1,0,0,0,"Drivers",3,242
+"209",5053711,"F","Y","N",2,157500,"Commercial associate","Incomplete higher","Married","House / apartment",-12857,-1399,1,0,0,1,"",4,243
+"758",5024163,"M","Y","Y",3,202500,"Working","Secondary / secondary special","Married","House / apartment",-13350,-1981,1,0,0,0,"Laborers",5,244
+"425",5143427,"F","N","Y",0,180000,"Pensioner","Secondary / secondary special","Single / not married","House / apartment",-23431,365243,1,0,0,0,"",1,245
+"1532",5048642,"F","N","N",0,157500,"Pensioner","Secondary / secondary special","Separated","House / apartment",-24048,365243,1,0,0,0,"",1,246
+"765",5054348,"F","N","N",0,103500,"Working","Secondary / secondary special","Single / not married","House / apartment",-12348,-424,1,1,1,0,"Sales staff",1,247
+"1255",5111178,"F","N","Y",2,54000,"Working","Higher education","Married","House / apartment",-11268,-4560,1,1,0,0,"Cleaning staff",4,248
+"602",5091735,"F","Y","Y",0,243000,"Working","Secondary / secondary special","Single / not married","House / apartment",-14716,-2057,1,0,0,0,"Sales staff",1,249
+"448",5116676,"M","Y","Y",3,270000,"Working","Secondary / secondary special","Married","House / apartment",-13427,-458,1,1,0,0,"Laborers",5,250
+"390",5068156,"M","Y","Y",0,180000,"Working","Secondary / secondary special","Married","House / apartment",-19565,-3246,1,0,0,0,"",2,251
+"269",5146463,"M","Y","N",0,360000,"State servant","Higher education","Married","House / apartment",-9983,-1923,1,0,0,0,"",2,252
+"473",5021373,"F","N","Y",0,247500,"Working","Higher education","Married","House / apartment",-22100,-578,1,0,0,1,"Managers",2,253
+"1197",5096059,"F","N","N",2,73350,"Working","Secondary / secondary special","Married","House / apartment",-14321,-7068,1,0,0,0,"Medicine staff",4,254
+"1244",5069296,"F","N","Y",0,225000,"Pensioner","Secondary / secondary special","Married","House / apartment",-20989,365243,1,0,0,0,"",2,255
+"714",5022015,"M","Y","Y",0,112500,"Working","Secondary / secondary special","Single / not married","House / apartment",-9952,-1613,1,0,0,0,"",1,256
+"409",5143573,"M","Y","N",0,157500,"Working","Incomplete higher","Married","With parents",-9124,-960,1,1,0,0,"Drivers",2,257
+"327",5142812,"M","Y","N",0,202500,"State servant","Secondary / secondary special","Married","House / apartment",-11648,-4275,1,1,1,0,"Core staff",2,258
+"308",5146123,"F","N","N",0,54000,"Pensioner","Secondary / secondary special","Single / not married","House / apartment",-20132,365243,1,0,0,0,"",1,259
+"896",5096785,"F","Y","Y",0,270000,"Pensioner","Secondary / secondary special","Married","House / apartment",-24194,365243,1,0,0,0,"",2,260
+"350",5068465,"F","N","Y",1,90000,"Commercial associate","Secondary / secondary special","Married","House / apartment",-10175,-1966,1,0,1,0,"Private service staff",3,261
+"907",5067949,"F","N","Y",0,157500,"Commercial associate","Secondary / secondary special","Single / not married","House / apartment",-18133,-3591,1,0,1,1,"",1,262
+"793",5068337,"F","Y","Y",0,112500,"Working","Higher education","Married","House / apartment",-10101,-505,1,1,1,0,"Laborers",2,263
+"974",5145694,"M","Y","Y",0,225000,"Working","Higher education","Single / not married","With parents",-9444,-663,1,1,1,0,"",1,264
+"1055",5126294,"M","N","N",0,225000,"Working","Secondary / secondary special","Married","House / apartment",-21149,-11884,1,1,0,0,"Laborers",2,265
+"784",5045844,"F","Y","N",0,193500,"Working","Secondary / secondary special","Married","House / apartment",-20836,-8966,1,0,0,0,"",2,266
+"853",5090232,"F","N","Y",0,135000,"Working","Secondary / secondary special","Widow","House / apartment",-21977,-9447,1,0,0,0,"High skill tech staff",1,267
+"1507",5125172,"F","Y","Y",0,157500,"Working","Secondary / secondary special","Married","House / apartment",-15023,-438,1,0,0,0,"Laborers",2,268
+"413",5045800,"M","Y","Y",1,427500,"Working","Secondary / secondary special","Married","House / apartment",-11892,-2543,1,0,1,0,"Drivers",3,269
+"813",5096318,"M","Y","N",0,270000,"Commercial associate","Higher education","Single / not married","House / apartment",-9517,-158,1,0,0,0,"Core staff",1,270
+"599",5033439,"M","Y","N",2,270000,"Working","Higher education","Married","House / apartment",-11723,-3002,1,0,1,0,"",4,271
+"286",5037266,"M","Y","N",0,225000,"Working","Secondary / secondary special","Single / not married","House / apartment",-11892,-1322,1,0,0,0,"Drivers",1,272
+"465",5105395,"F","N","Y",0,135000,"Working","Incomplete higher","Single / not married","House / apartment",-10932,-575,1,0,0,0,"Secretaries",1,273
+"1064",5095033,"M","Y","Y",0,202500,"Commercial associate","Higher education","Married","House / apartment",-15406,-1463,1,0,0,0,"Drivers",2,274
+"45",5046324,"F","N","Y",1,157500,"Commercial associate","Secondary / secondary special","Single / not married","House / apartment",-15466,-2269,1,0,1,0,"Low-skill Laborers",3,275
+"78",5065348,"F","Y","Y",0,202500,"Working","Higher education","Married","House / apartment",-15160,-3974,1,0,0,0,"High skill tech staff",2,276
+"90",5079166,"M","Y","N",0,202500,"Working","Secondary / secondary special","Married","With parents",-13720,-1394,1,0,0,0,"Laborers",2,277
+"8",5009894,"F","N","N",0,180000,"Pensioner","Secondary / secondary special","Married","House / apartment",-22134,365243,1,0,0,0,"",2,278
+"3",5009746,"F","Y","N",0,315000,"Commercial associate","Higher education","Married","House / apartment",NA,-586,1,1,1,0,"",2,279
+"107",5105045,"M","N","Y",0,225000,"Pensioner","Secondary / secondary special","Widow","House / apartment",-22939,365243,1,0,0,0,"",1,280
+"154",5142184,"M","Y","Y",2,450000,"Commercial associate","Higher education","Married","House / apartment",-17841,-4305,1,1,1,0,"Managers",4,281
+"117",5115608,"F","N","Y",0,202500,"Working","Secondary / secondary special","Married","House / apartment",-14523,-3420,1,0,0,0,"Core staff",2,282
+"6",5009753,"","Y","N",0,315000,"Pensioner","Higher education","Married","House / apartment",-13557,-586,1,1,1,0,"",2,283
+"112",5113944,"F","Y","N",0,135000,"Pensioner","Secondary / secondary special","Married","House / apartment",-23324,365243,1,0,1,0,"",2,284
+"124",5116302,"F","N","Y",0,180000,"Pensioner","Secondary / secondary special","Married","House / apartment",-22655,365243,1,0,0,0,"",2,285
+"138",5125299,"F","N","Y",0,148500,"Pensioner","Secondary / secondary special","Married","House / apartment",-20846,365243,1,0,0,0,"",2,286
+"57",5052877,"M","Y","Y",0,225000,"Working","Secondary / secondary special","Married","House / apartment",-17915,-3366,1,0,0,0,"Drivers",2,287
+"121",5116036,"M","Y","Y",0,126000,"Working","Higher education","Single / not married","House / apartment",-14522,-863,1,1,0,0,"Managers",1,288
+"162",5145690,"F","N","Y",0,306000,"Pensioner","Higher education","Married","House / apartment",-21590,365243,1,0,0,0,"",2,289
+"106",5100430,"M","Y","N",0,180000,"Working","Secondary / secondary special","Single / not married","House / apartment",-16310,-613,1,0,0,0,"Laborers",1,290
+"14",5018503,"F","Y","Y",0,90000,"Working","Secondary / secondary special","Married","House / apartment",-18950,-1002,1,1,1,0,"Cooking staff",2,291
+"92",5079168,"M","Y","N",0,202500,"Working","Secondary / secondary special","Married","With parents",-13720,-1394,1,0,0,0,"Laborers",2,292
+"94",5089162,"F","Y","N",0,225000,"Working","Higher education","Married","House / apartment",-20264,-2531,1,1,1,0,"Accountants",2,293
+"134",5118280,"F","N","N",0,112500,"Pensioner","Secondary / secondary special","Single / not married","Municipal apartment",-21363,365243,1,0,0,0,"",2,294
+"75",5061691,"F","N","Y",1,67500,"Commercial associate","Higher education","Married","House / apartment",-9122,-1567,1,0,0,1,"Waiters/barmen staff",3,295
+"60",5053254,"F","Y","Y",0,180000,"Commercial associate","Secondary / secondary special","Married","House / apartment",-18667,-2150,1,1,0,0,"Managers",2,296
+"93",5085886,"M","Y","Y",0,315000,"Commercial associate","Higher education","Married","House / apartment",-18661,-1265,1,0,0,0,"Managers",2,297
+"55",5052659,"F","N","Y",0,103500,"Working","Secondary / secondary special","Married","House / apartment",-10396,-564,1,0,0,1,"IT staff",2,298
+"76",5062136,"M","N","N",1,180000,"Working","Secondary / secondary special","Single / not married","House / apartment",-12947,-137,1,0,0,0,"Laborers",2,299
+"39",5036795,"M","Y","Y",0,215100,"Commercial associate","Secondary / secondary special","Married","House / apartment",-19175,-1285,1,0,1,0,"Laborers",2,300
+"2",5009744,"F","Y","N",0,315000,"Commercial associate","Higher education","Married","House / apartment",-13557,-586,1,1,1,0,"",2,301
+"155",5142185,"M","Y","Y",2,450000,"Commercial associate","Higher education","Married","House / apartment",-17841,-4305,1,1,1,0,"Managers",4,302
+"18",5021430,"F","N","Y",0,126000,"Commercial associate","Higher education","Single / not married","House / apartment",-18907,-2470,1,0,0,0,"Sales staff",1,303
+"165",5146079,"F","N","Y",1,108000,"Working","Secondary / secondary special","Married","House / apartment",-12723,-1132,1,1,1,0,"Sales staff",3,304
+"104",5096743,"F","N","Y",0,180000,"Working","Lower secondary","Widow","House / apartment",-16803,-2227,1,1,1,0,"Cleaning staff",1,305
+"83",5068651,"","Y","Y",0,360000,"State servant","Higher education","Separated","House / apartment",-19305,-1905,1,0,0,0,"Core staff",1,306
+"167",5146444,"F","N","Y",0,135000,"Working","Secondary / secondary special","Widow","House / apartment",-14394,-919,1,0,1,0,"Managers",1,307
+"118",5115610,"F","N","Y",0,202500,"Working","Secondary / secondary special","Married","House / apartment",-14523,-3420,1,0,0,0,"Core staff",2,308
+"110",5113621,"M","N","N",0,225000,"Working","Secondary / secondary special","Widow","Municipal apartment",-19406,-346,1,0,0,0,"Security staff",1,309
